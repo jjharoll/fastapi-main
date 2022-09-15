@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:fastapi-main}/sql_app.db",
+            "name": "python"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
